@@ -144,10 +144,3 @@ Through visualizations, the dashboard highlights key metrics like total videos, 
 - **Data Source**: CSV file containing YouTube channel metrics.  
 
 ---
-
-## Contact  
-
-- **Author**: Divyanshu Mishra  
-- **Email**: [divyanshu.mishra@utdallas.edu](mailto:divyanshu.mishra@utdallas.edu)  
-
----
